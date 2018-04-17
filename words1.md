@@ -149,7 +149,25 @@
 > 1. to formally say or write a piece of information or your opinion
 > 2. if document, newspaper, tickets etc states information, it contains the information written clearly
 
-strengthen
+
+
+
+
+asdfawerqweradfa
+
+
+
+easdfawe4
+
+
+
+asdfqwasasdf
+
+
+
+asdffqawerqwe
+
+asdfasdfqwerqwerqwsdfuh
 
 affair
 
