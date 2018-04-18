@@ -22,24 +22,51 @@
 >
 >    **survive as**
 >
->    `The main building was demolished, but the library still survives as a museum`
+>    `The main building was demolished, but the library still survives as a museum.`
 >
 >    **survive into**
 >
->    ​
+>    `an old custom which has survived into twenty-first century.`
 >
 > 5. *to continue to be successful*
 >
+>    `The car industry cannot survive without government help.`
+>
 > 6. *to live longer than someone else, usually someone is closely related to you*
 >
+>    `He is survived by his wife Sue.`
 
 #### assert 
 
-> to state firmly that something is true
+> 1. to state firmly that something is true
+>
+>    `French-cooking, she asserted, is the best food in the word.`
+>
+>    **assert that**
+>
+>    `He asserted that nuclear power was a safe and non-polluting energy source.`
+>
+> 2. **assert your rights/independence/superiority etc**
+>
+> 3. **assert yourself**
+>
+> 4. **assert itself**
+>
+> 
 
 #### estate
 
 > 1.  all of the someone's property and money , especially everything that is left after they died
+>
+>     **somebody's estate**
+>
+>     `The property is part of the deceased's estate.`
+>
+> 2.  a large of land in the country, usually with one large house on it and one owner.
+>
+>     `a country estate`
+>
+> 3.  an area where houses or buildings of a similar type have all been built together in a planned way
 
 #### affirm
 
@@ -196,3 +223,7 @@ medieval
 demolished
 
 rumors
+
+custom
+
+deceased
