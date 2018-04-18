@@ -1,20 +1,20 @@
 #### survive `v.` 
 
-> 1. *continue to live after an accident war or illness*
+> 1. continue to live after an accident war or illness
 >
 >    `Only 12 of the 140 passengers survived.	`
 >
-> 2. *to continue to live normally in spite of many problems*
+> 2. to continue to live normally in spite of many problems
 >
 >    `I'am sure she will servive this crisis.`
 >
-> 3. *to manage to live a normal life even though you have very little money*
+> 3. to manage to live a normal life even though you have very little money
 >
 >    **survive on**
 >
 >    `I don't know how you all manage to survive on Jeremy's salary.`
 >
-> 4. *to continue to exist after a long time*
+> 4. to continue to exist after a long time
 >
 >    **survive from**
 >
@@ -28,11 +28,11 @@
 >
 >    `an old custom which has survived into twenty-first century.`
 >
-> 5. *to continue to be successful*
+> 5. to continue to be successful
 >
 >    `The car industry cannot survive without government help.`
 >
-> 6. *to live longer than someone else, usually someone is closely related to you*
+> 6. to live longer than someone else, usually someone is closely related to you
 >
 >    `He is survived by his wife Sue.`
 
@@ -71,7 +71,16 @@
 #### affirm
 
 > 1. to state publicly that something is true
+>
+>    `The general affirmed rumors of attack.`
+>
+>    **affirm that**
+>
+>    `A spokesman for the company affirmed that a merger was likely.`
+>
 > 2. to strengthen a feeling, belief, or idea
+>
+>    `He claims that modern physics affirm his Christian beliefs.`
 
 #### devastate `v.`
 
@@ -174,19 +183,58 @@
 #### state `v.`
 
 > 1. to formally say or write a piece of information or your opinion
+>
+>    `The government needs to clearly state its policy on UN intervention. `
+>
 > 2. if document, newspaper, tickets etc states information, it contains the information written clearly
+>
+>    `The price of the tickets is stated on the back.`
 
+####affair `n.`####
 
+> 1. **a)**an event or set of related events, especially one that is impressive or shocking
+>
+>    `The whole affair was a disaster.`
+>
+>    **b)**used when describing an event
+>
+>    `The party was a very grand affair.`
+>
+> 2. a secret sexual relationship between two people, when at least one of them is married to someone else
+>
+>    **affair with**
+>
+>    `He had an affair with his boss that lasted six years.`
 
+####political `a.`#### 
 
+> 1. relating to a government, politics, and public affairs of a country
+>
+>    `Education is now a major political issue.`
+>
+>    **political party/system/institutions**
+>
+>    `The UN is seeking a political solution rather than military one.`
+>
+> 2. relating to the ways that different people have power within the group, organization etc.
+>
+>    `The appointment was given to Wellington, mainly for political reasons.`
+>
+> 3. interested in or active in politics.
+>
+>    `Most students aren't very political.`
 
+#### condition `n.`####
 
-
-affair
-
-political
-
-condition
+> 1. ​
+> 2. ​
+> 3. ​
+> 4. to state that something is in, especially how good or bad its physical state is.
+> 5. how healthy or fit you are.
+> 6. something that you must agree to in order for something to happen, especially this is include in a contract.
+> 7. something that must exist or happen first, before something else can happen
+> 8. an illness or health problem that affects you permanently or for a very long time
+> 9. the situation or state of a particular group of people, especially when they have problems and difficulties.
 
 considered 
 
@@ -227,3 +275,7 @@ rumors
 custom
 
 deceased
+
+intervention
+
+contract
