@@ -52,7 +52,7 @@
 >
 > 4. **assert itself**
 >
-> 
+>
 
 #### estate
 
@@ -226,15 +226,101 @@
 
 #### condition `n.`####
 
-> 1. ​
-> 2. ​
-> 3. ​
+> 1. `conditions`the situation in which people live or work, especially the physical thing that affect the quality of their lives
+>
+>    `Condition in the prison were atrocious.`
+>
+>    **living or working conditions**
+>
+>    `Poor working conditios lead to demoralized and unproductive employees.`
+>
+>    **in appalling/overcrowded/dreadful etc conditions**
+>
+>    `These children work 70 meters below grand in appalling conditions.`
+>
+> 2. `plural`the weather in a particular time, especially when you are considering how this affect people
+>
+>    `The conditions during the first half of the match were appallig.`
+>
+>    **cold/windy/icy etc conditions**
+>
+>    `In cold conditions you'll need a sleeping bag with a hood.`
+>
+> 3. `plural`all the things that affect the way something happens
+>
+>    **under ... conditions**
+>
+>    `Under normal conditions, people will usually do what requires least effort.`
+>
 > 4. to state that something is in, especially how good or bad its physical state is.
+>
+>    **in (a) good/poor/excellent/terrible etc condition**
+>
+>    `The car has been well maintained and is in excellent condition.`
+>
+>    **condition of**
+>
+>    `The condition of nuclear plants is matter of great concern.`
+>
 > 5. how healthy or fit you are.
+>
+>    `She is being treated at walton hospital, where her condition is described as satisfactory`
+>
+>    **in (a) critical/stable/satisfactory condition**
+>
+>    `One of the victims was in a critical condition after suffering severe burns.`
+>
+>    **physical/mental condition**
+>
+>    `If you are uncertain about your physical condition, check with your doctor before you trying these exercises.`
+>
+>    **in no condition to do something**
+>
+>    `Mark can't possibly drive home in that condition.`
+>
 > 6. something that you must agree to in order for something to happen, especially this is include in a contract.
+>
+>    `She laid down anyone condition: that her name not be revealed.`
+>
+>    **condition for**
+>
+>    `A statement of your terms and conditions of employment can be found in the Personel Handbook. `
+>
 > 7. something that must exist or happen first, before something else can happen
+>
+>    **condition for/of**
+>
+>    `Investment is a necessary condition of economic growth.  	`
+>
 > 8. an illness or health problem that affects you permanently or for a very long time
+>
+>    `People suffering from this consition should not smoke.`
+>
+>    **heart/lung etc condition**
+>
+>    `He has a very serious heart condition.`
+>
 > 9. the situation or state of a particular group of people, especially when they have problems and difficulties.
+>
+> 10. **on no condition**
+
+#### condition `v.`
+
+> 1. to make a person or an animal to think or behave in a certain way by influencing or training them over a period time
+>
+>    `People are conditioned by society.`
+>
+>    **condition somebody to do something**
+>
+>    `Many woman are conditioned from birth to be accepting rather than questioning.`
+>
+> 2. to control or decide the way in which something can happen or exist
+>
+>    `What I buy is conditioned by the amount I earn.`
+>
+> 3. to keep hair or skin healthy by putting a special liquid on it
+>
+>    `a shampoo that washed and conditions all in one.`
 
 considered 
 
@@ -279,3 +365,20 @@ deceased
 intervention
 
 contract
+
+corpus
+
+demoralized
+
+atrocious
+
+appalling
+
+hood
+
+greasy
+
+concern
+
+plants
+
