@@ -322,17 +322,96 @@
 >
 >    `a shampoo that washed and conditions all in one.`
 
-considered 
+####considered `a.`
 
-substance
+> a considered opinion, reply, judgment etc is one that you thought about **carefully**
+>
+> `The commity is meeting to prepare considered response to the problem`
 
-amount
+#### substance `n.`
 
-quantity
+> 1. a particular type of solid, liquid or gas
+>
+>    `The leaves were covered with a kind of strange sticky substance.`
+>
+>    **dangerous/toxic/hazardous/poisonous etc substance**
+>
+>    `Plutonium 238 is one of the most toxic substances known to man.`
+>
+> 2. if something has substance, it is true
+>
+>    `There is no substance to the rumours`
+>
+>    **without substance**
+>
+>    `O'Connell's remarks are completely without substance.`
+>
+> 3.  the most important ideas contained in an argument or piece of writing  `SYN`**essence**
+>
+>    `The substance of his argument was that people on welfare should work.`
+>
+>    **in substance**
+>
+>    `What she said, in substance, was that the mayor should resign.`
+>
+> 4. importance  `SYN`**significance**
+>
+>    `It was an entertaining speech, but it lacked substance.`
+>
+>    **matters/issues of substance**
+>
+>    `We should be discussing the matters of substance.`
+>
+> 5. man/woman of substance
+
+####amount `n.`
+
+> 1. a quantity of something such as time, money, or a substance
+> 2. used to talk about how much there is of a feeling or quantity
+> 3. **no amount of something can/will do something**
+> 4. **any amount of something**
+
+####quantity
 
 judgment
 
-argument
+####argument `n.`
+
+> 1. a situation in which two or more people disagree
+>
+>    **argument with**
+>
+>    `She had a big arugument with her husband.`
+>
+>    **argument about/over**
+>
+>    `There have been a lot of arguements about who was the responsible for the accident.`
+>
+> 2. a set of reasons that show that something is true or untrue, right of wrong etc
+>
+>    `We need to provide convincing convincing argument as to why the system should be changed`
+>
+>    **argument for/against**
+>
+>    `A good argument can be made for comparing the IT revolution with the invention of writiong itself.`??????
+>
+>    **argument in favor of**
+>
+>    `The arguments in favor of banning tobacco advertising.`
+>
+>    **argument that**
+>
+>    `The familiar argument that the cost outweigh the benefits.`
+>
+> 3. when you disagree with something or question whether it is right
+>
+>    **do something without (further) argument**
+>
+>    `Ian accepted the suggestion without argument`
+>
+>    **for the sake of argument (= in order to discuss all the possibilities)**
+>
+>    `If, for the sake of argument, you aren't offered the job, what will you do?`
 
 marked
 
@@ -382,3 +461,20 @@ concern
 
 plants
 
+committee
+
+response
+
+essence
+
+sticky
+
+mayor
+
+revolution
+
+in favor of
+
+whether
+
+further
