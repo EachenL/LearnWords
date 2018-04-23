@@ -367,11 +367,73 @@
 ####amount `n.`
 
 > 1. a quantity of something such as time, money, or a substance
+>
+>    **amount of**
+>
+>    `They spend equal amounts of time in California and New York.`
+>
+>    **a considerable/large/enormous etc amount**
+>
+>    `a considerable amount of money`
+>
+>    **a small/tiny etc amount**
+>
+>    `a tiny amount dirt`
+>
 > 2. used to talk about how much there is of a feeling or quantity
+>
+>    **a larger/considerable etc amount of something**
+>
+>    `Her case has attracted an enormous amount of public sympathy.`
+>
+>    **a certain/fair amount of something**
+>
+>    `Dina encountered a fair amount of envy among her colleagues.`
+>
 > 3. **no amount of something can/will do something**
+>
+>    used to say something has no effect
+>
+>    `No amount of persuasion could make her change her mind.`
+>
 > 4. **any amount of something**
+>
+>    used to say that there is plenty of something and no more is needed
+>
+>    `The school has any amount of resources and equipment.`
+>
 
-####quantity
+#### amount `v.`
+
+> **amount to something**
+>
+> 1. if figures, sums etc amount to a particular total, they equal that total when they are added together
+>
+>    `Time lost through illness amounted to 1357 working days.`
+>
+> 2. if an attitude, remark, situation etc amounts to something, it has the same effect
+>
+>    `Ultimately, their ideas amount to the same thing.`
+>
+> 3. **not amount to much/anything/a great deal etc**  to not be important, valuable, or successful
+>
+>    `Her academic achievements don't amount to much.`
+
+####quantity `n.`
+
+> 1. an amount of something that can be counted or measured
+>
+>    **quantity of**
+>
+>    **a large/small/vast etc quantity of something**
+>
+>    **in large/small/sufficient etc quantities**
+>
+> 2. the **large** amount of something
+>
+> 3. **in quantity**
+
+
 
 judgment
 
@@ -478,3 +540,9 @@ in favor of
 whether
 
 further
+
+effect
+
+affect
+
+enormous
