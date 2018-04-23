@@ -425,17 +425,53 @@
 >
 >    **quantity of**
 >
+>    `The police also found a quantity of ammunition in the flat.`
+>
 >    **a large/small/vast etc quantity of something**
+>
+>    `He had consumed a large quantity of alcohol.`
 >
 >    **in large/small/sufficient etc quantities**
 >
+>    `Your work has improved in quantity and quality this term.`
+>
 > 2. the **large** amount of something
 >
+>    `The sheer quantity of text meant that people did not read the whole of their newspaper.`
+>
 > 3. **in quantity**
+>
+>    in large amounts
+>
+>    `It's a lot cheaper if you by it in quantity.`
 
 
 
-judgment
+####judgment `n.`
+
+> 1. an opinion that you form, especially after thinking carefully about something.
+>
+>    `It's too soon to make a judgment about what the outcome will be.`
+>
+> 2. the ability to make the sensible decision about what to do and when to do it.
+>
+>    `I have known him for years and I trust his judgment.`
+>
+>    **professional/personal etc judgment**
+>
+>    `The minister showed a lack of political judgment.`
+>
+> 3. an official decision given by the judge or a court of law.
+>
+>    `The company were fined 6 million pounds following a recent court judgment.`
+>
+> 4. **a judgment (on somebody/something)**
+>
+>    something bad that happens to someone and seems like a punishment for the things they have done wrong
+>
+> 5. **judgment call**
+>
+>    a decision you have to make yourself because there are no fixed rules in this situation
 
 ####argument `n.`
 
@@ -477,9 +513,16 @@ judgment
 
 marked
 
-inhabit
+#### inhabit `v.`
 
-settle
+> if animals or people inhabit an area or place, they live there `SYN` **live**
+>
+> `The woods are inhabited by many wild animals.`
+
+####settle `v.`
+
+> 1. to end an argument or solve a disagreement
+> 2. to decide what you are going to do, especially so that you can make the definite arrangements
 
 bulky
 
@@ -546,3 +589,9 @@ effect
 affect
 
 enormous
+
+flat
+
+consume
+
+term
