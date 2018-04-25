@@ -511,7 +511,10 @@
 >
 >    `If, for the sake of argument, you aren't offered the job, what will you do?`
 
-marked
+#### marked `a.`
+
+> 1. very easy to notice `SYN` **noticeable**
+> 2. **marked man/woman**
 
 #### inhabit `v.`
 
@@ -524,15 +527,105 @@ marked
 > 1. to end an argument or solve a disagreement
 > 2. to decide what you are going to do, especially so that you can make the definite arrangements
 
-bulky
+#### home in on something
 
-outsize
+> 1. to aim exactly at an object or place and move directly to it
+>
+>    `The bat can home in on insects using a kind of 'radar'.`
+>
+> 2. to direct your efforts or attention toward a particular fault or problem
+>
+>    `He homed in on the one weak link in the argument.`
 
-dwell
+#### bulky `n.`
 
-reside
+> 1. something that is bulky is bigger than other things of its type, and is difficult carry and store
+>
+>    `a bulky parcel`
+>
+> 2. someone who is bulky is big and heavy
+>
+>    `Andrew is a bulky man.`
 
-blow
+#### outsize `a.`
+
+> 1. larger than normal
+>
+>    `a woman in outsize glasses`
+>
+> 2. made for people who are vary large and fat
+>
+>    `outsize clothes`
+
+#### dwell `v.`
+
+> to live in a particular place
+>
+> `They dwelt in the forest.`
+
+####reside `v.`
+
+> to live in a particular place
+>
+> `He spent most of his time in Rutherglen, where his family resided.`
+
+####blow `v.`
+
+> 1. `wind moving`if the wind or a current of air blows, it moves
+>
+>    `A cold breeze was blowing hard.`
+>
+> 2. `wind moving something`to move or to move something, by the force of the wind and **a current of** air
+>
+>    `The wind blew the rain into our faces`.
+>
+>    **blow something open/shut**
+>
+>    `A sudden draught blew the door shut.`
+>
+> 3. `air from your mouth`to send air out from your mouth
+>
+>    **blow something into/onto/out etc**
+>
+>    `She blew onto her coffee to cool it down.`
+>
+> 4. `make a noise`to make a sound by passing air through a whistle, horn etc
+>
+> 5. `violence`to damage or destroy something violently with an explosion or by shooting
+>
+> 6. `lose an opportunity`to lose an opportunity by making a mistake or by being careless
+>
+> 7. `waste money`to spend a lot of money in a careless way, especially on one thing.
+>
+> 8. **blows your nose**
+>
+> 9. **blow somebody a kiss**
+>
+> 10. `electricity stops`if an electrical fuse blows, or a piece of electrical equipment blows a fuse, the electricity suddenly stops working because a thin wire has melted
+>
+> 11. `tyre`if a tyre blows, or if a car blows a tyre, it bursts
+>
+> 12. `make a shape`to make or shape something by sending air out from your mouth
+>
+> 13. **blow/blow me/blow it etc**
+>
+> 14. `tell a secret`to make known something that was meant to be a secret
+>
+> 15. **blow somebody's mind**
+>
+> 16. **blow your top/stack/cool**
+>
+> 17. **blow the whistle on somebody**
+>
+> 18. **blow something (up) out of (all) proportion**
+>
+> 19. **blow your own trumpet**
+>
+> 20. **blow somebody or something out of the water**
+>
+> 21. **blow hot and cold**
+>
+> 22. **blow something sky-high**
 
 spite
 
@@ -588,6 +681,10 @@ effect
 
 affect
 
+efforts
+
+fault
+
 enormous
 
 flat
@@ -595,3 +692,16 @@ flat
 consume
 
 term
+
+horn
+
+proportion
+
+fuse
+
+trumpet
+
+breeze
+
+draught
+
