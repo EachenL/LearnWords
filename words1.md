@@ -627,7 +627,21 @@
 >
 > 22. **blow something sky-high**
 
-spite
+#### butt in
+
+> 1. to interrupt a conversation rudely
+>
+>    `Stop butting in!`
+>
+> 2. to become involved in a private situation that does not concern you
+>
+>    `They don't want outsiders butting in on their decision-making.`
+
+#### spite `n.`
+
+> 1. **in spite of something**
+> 2. a feeling of wanting to hurt or upset people, for example you are jealous or think you have been unfairly treated
+> 3. **in spite of yourself**
 
 medieval
 
@@ -705,3 +719,4 @@ breeze
 
 draught
 
+involve
