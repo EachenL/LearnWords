@@ -640,16 +640,59 @@
 #### spite `n.`
 
 > 1. **in spite of something**
+>
 > 2. a feeling of wanting to hurt or upset people, for example you are jealous or think you have been unfairly treated
+>
+>    `She broke it just out of spite.`
+>
 > 3. **in spite of yourself**
 
-medieval
+#### medieval `a.`
 
-demolished
+> 1. connected with middle ages ( = the period between about 1100 and 1500 AD)
+>
+>    `The spices were first brought to italy from the east in medieval times.`
+>
+> 2. very old or old-fashioned---used in a humorous or disapproving way
+>
+>    `The plumbing in this house is positively medieval.`
 
-rumors
+####demolished `v.`
 
-custom
+> 1. to completely destroy a building
+>
+>    `The entire east wing of building was demolished in the fire.`
+>
+> 2. to prove that an idea or opinion is completely wrong
+>
+>    `He demolished my argument in minutes.`
+>
+> 3. to end or ruin something completely
+>
+>    `These ants can demolished large area of forest.`
+>
+> 4. to defeat someone very easily
+>
+>    `Miami demolished Texas 46-3.`
+>
+> 5. to eat all of something very quickly
+>
+>    `He demolished a second helping of pie.`
+
+#### rumors `n.`
+
+> 1. information or a story that is passed from one person to another and which may or may not be true
+>
+>    `I have heard sorts of rumors about him and his secretary.`
+>
+>     
+
+#### custom `n.`
+
+> 1. something that is done by people in a particular society because it is traditional
+> 2. something that you usually do everyday, or in a particular situation `SYN`
+> 3. **customs**
+> 4. the practice of regularly using a particular shop or business.
 
 deceased
 
