@@ -1,0 +1,160 @@
+----------------------------------------------unit8 pa
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------unit8 pa
+----------------------------------------------unit8 pb
+telecomunication电信
+transmission传输
+form of electronic电子形式
+electromagnetic signals电磁信号
+data communication network数据通信网络
+flow流
+consist of包括
+transaction交易
+mailing address邮寄地址
+mailing list邮件列表
+leased租用
+transmitter发射机
+cable interface有线接口
+modem调制解调器
+modulator调制器
+demodulator解调器
+clustered集群
+parallel平行
+indicates指示
+integral element整体元素
+various各个
+file-transfer文件传输
+host-terminal主机终端
+agents代理
+dumb哑
+varying不同
+capabilities功能
+strictly严格
+diskette软盘
+outgrowth生长
+memorandum备忘录
+interconnected互联
+private branch exchange专用小交换机网
+in close proximity在附近
+relatively recent development相对较新的发展
+information retrievel信息检索
+bulletin-board布告栏
+invest投资
+quotation行情
+corporate-earning企业 - 盈利
+estimates估计
+disclosures披露
+survey调查
+dialog对话
+telexes电报
+postal邮政
+certain telecommunication methods某些电信方式
+dominate支配
+varity品种
+integrated services digital network综合服务数字网络
+peripheral外围设备
+biliographic书目
+facilitate促进
+in the form of以...的形式
+take the form of采取的形式
+as such因此
+as a whole作为一个整体
+in this respect在这方面
+ANSI  American National Standards Institude美国国家标准局
+CCITT  International Telegraph and Telephone Consultative Committee国际电报电话咨询委员会
+IEE  Institute of Electrical Engineers电气工程师学会
+EIA  Electronic Industries Association电子工业协会
+---------------------------------------------------------------------unit8 pb
+---------------------------------------------------------------------unit9 pa
+numerical数值的,数字的
+digitization数字化
+simultaneously同时地
+emulation仿真
+simulation模拟
+reconfigurable可重新配置的
+appliance用具, 器具
+compatible兼容性
+concepts概念
+representation表示
+essential必要
+sample and hold circuit采样保持电路
+interval间隔
+reciprocal倒数
+aliasing混叠现象
+distortion失真
+precede领先的,在...之前, 先于
+brief acquisition time短暂的采集时间
+corresponds对应
+quantization量化
+full scale range满量程范围
+signal-to-noise ratio信噪比
+zero-order hold零阶保持
+time to market上市时间
+vertical lines垂直线
+assigned分配
+summarize总结
+proportional成比例的
+steady稳定
+staircase-like阶梯状
+erroneously误
+baseband基带
+exploited利用
+narrow狭窄
+deduce推断
+spectrum频谱,光谱
+spectral...的频谱
+typically一般
+implement实行
+trick窍门, 诡计, 诀窍
+delivers提供
+power consumption能量消耗
+incredibly令人难以置信
+single-cycle单周期
+accumulate积累
+infrastructure基础设施
+in conjunction with与...协力
+under sampling欠采样
+spectrum inversion频谱翻转
+more often than not时常
+bus interface总线接口
+
+iteratively迭代
+foundry铸造厂, 半导体制造商
+proposition主张
+impediment障碍
+availing援用
+glue logic互联逻辑
+functional accelerator性能加速器
+contrast对比
+optimized优化
+dinosaurs恐龙
+encumbered拖累
+embraces拥抱
+hand-held手持式
+bound界
+hold time保持时间
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
