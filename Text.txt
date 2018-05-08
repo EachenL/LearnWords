@@ -1,29 +1,41 @@
 ----------------------------------------------unit8 pa
-telephoney
-telegraph
-step-by-step
-two-motion
-progressive electromachanical steps
-crossbar
-introduced
-marker
-led
-deployment
-high-capacity
-radio-relay
-quadrature amplitude modulation
-milestones
-
-
-
-
-
-
-
-
-
-
-
+telephoney电话
+telegraph电报
+step-by-step一步步
+two-motion两运动
+progressive electromachanical steps渐进式电动机械步骤
+crossbar横梁
+introduced介绍
+marker标记
+ledLED
+deployment部署
+high-capacity大容量
+radio-relay无线电中继
+quadrature amplitude modulation正交幅度调制
+milestones里程碑
+spur骨刺
+repeater station中继站
+stored-program control存储程序控制
+pulse code modulation脉码调制
+hierarchy等级制度
+backbone骨干
+propose提出
+capable of relaying能够转播
+characterized特征
+packet switching分组交换
+sponsorship赞助
+International Telegraph and Telephone Consultative Committee国际电报电话咨询委员会
+adoption采用
+Internation Organization of Standardization国际标准化组织
+Open-System-Interconnections开放系统互连
+reference mode参考模式
+as long as只要
+obey遵守
+ampification放大
+ingredient	成分
+integrated services digital networks综合业务数字网络
+the Federal Communications Commission联邦通信委员会
+cellular细胞的
 ----------------------------------------------unit8 pa
 ----------------------------------------------unit8 pb
 telecomunication		电信
