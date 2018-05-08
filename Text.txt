@@ -1,4 +1,19 @@
 ----------------------------------------------unit8 pa
+telephoney
+telegraph
+step-by-step
+two-motion
+progressive electromachanical steps
+crossbar
+introduced
+marker
+led
+deployment
+high-capacity
+radio-relay
+quadrature amplitude modulation
+milestones
+
 
 
 
@@ -142,78 +157,101 @@ embraces			拥抱
 hand-held			手持式
 bound				界
 hold time			保持时间
+--------------------------------------------------unit9 pa
 --------------------------------------------------unit10 pa
-extraterrestrial
-wreak
-beam
-inevitable
-chillingly
-premonition
-infrared
-leaped
-destructive
-substitude
-machinery
-techno-spy
-thriller
-tied down
-villain
-spread
-gentials
-swath
-asunder
-length-wise
-alas
-indeed
-faint
-pencil lines
-scattered
-projecting
-sheet of steel
-detect
-dramatic
-igniting
-thermonuclear fusion reaction
-seemingly mundane 
-intense
-contradiction
-intensity
+extraterrestrial		外星人
+wreak				发泄
+beam				光束
+inevitable			必然
+chillingly			冷竣
+premonition			征兆
+infrared			红外线
+leaped				飞跃
+destructive			有害
+substitude			分别代替
+machinery			机械
+techno-spy			TECHNO-间谍
+thriller			惊悚,恐怖
+tied down			束缚
+villain				恶棍
+spread				传播
+genitals			生殖器
+swath				大片
+asunder				四分五裂
+length-wise			长度方向
+alas				唉
+indeed				确实
+faint				晕
+pencil lines			铅笔线
+scattered			疏散
+projecting			突出
+sheet of steel			钢板
+detect				检测
+dramatic			戏剧性
+igniting			点火
+thermonuclear fusion reaction	热核聚变反应
+seemingly mundane 		看似平凡
+intense				激烈
+contradiction			矛盾
+intensity			强度
+reflection			反射
+bounced off			反弹
+---------------------------------------------------------unit10 pa
+---------------------------------------------------------unit11 pa
+information accumulated		信息积累
+specific portion		特定部分
+organize			组织
+characters			人物
+fields				领域
+multiple related files		多个相关文件
+by contrast			相比之下
+report				报告
+payroll				工资表
+inventory			库存
+ledger				总帐
+redundantly			冗余
+subtle				微妙
+retrieving			检索
+consequently			所以
+responsibility			责任
+rests				休息
+redundant			冗
+duplicate			重复
 
-外星人
-发泄
-光束
-必然
-冷竣
-征兆
-红外线
-飞跃
-有害
-分别代替
-机械
-TECHNO-间谍
-惊悚片
-束缚
-恶棍
-传播
-gentials
-大片
-四分五裂
-长度方向
-唉
-确实
-晕
-铅笔线
-疏散
-突出
-钢板
-检测
-戏剧性
-点火
-热核聚变反应
-看似平凡
-激烈
-矛盾
-强度
+---------------------------------------------------------unit11 pa
+---------------------------------------------------------unit11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
