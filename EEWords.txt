@@ -1,9 +1,9 @@
 ----------------------------------------------unit8 pa
 telephoney电话
 telegraph电报
-step-by-step一步步
+step-by-step步进
 two-motion两运动
-progressive electromachanical steps渐进式电动机械步骤
+progressive electromachanical steps												渐进式电动机械步骤
 crossbar横梁
 introduced介绍
 marker标记
@@ -33,9 +33,12 @@ as long as只要
 obey遵守
 ampification放大
 ingredient	成分
-integrated services digital networks综合业务数字网络
-the Federal Communications Commission联邦通信委员会
-cellular细胞的
+integrated services digital networks												综合业务数字网络
+the Federal Communications Commission										联邦通信委员会
+cellular				细胞的
+crossbar纵横式
+electric switch电子交换机
+
 ----------------------------------------------unit8 pa
 ----------------------------------------------unit8 pb
 telecomunication		电信
