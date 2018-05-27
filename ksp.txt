@@ -1,0 +1,65 @@
+copypath("0:/gravity_turn","").
+run gravity_turn.
+telnet远程登录
+thermal热
+vessel容器, 船
+volume体积, 卷
+invoke调用
+semi-transparent半透明
+printout打印
+referred简称
+conceptually概念
+archive档案
+Periapsis近拱点
+sophisticated复杂的
+preserve保留
+crude粗糙
+roll横滚x轴转动x为前进方向
+pitch俯仰y轴转动
+yaw偏航z轴转动
+apoasis远拱点
+iterates迭代
+suffix后缀
+idle空闲
+Patterns模式
+Considerations注意事项
+a sense of一种感觉
+accelerometer加速度计
+negative gravioli detector 负g检测器
+maneuver演习
+facility设施
+scenario脚本
+section部分
+novice初学者
+critically危重
+acclaimed广受好评
+immersive身临其境
+containment遏制
+Sequential顺序
+Loops with Condition Checking循环条件检查
+Triggers触发器
+General Guidelines通用指南
+Minimize最小化, 尽量减少
+verbose description详细描述
+attachment附件
+redux终极版
+planetary行星
+inventory库存
+tweak scale调整规模
+introduce介绍
+reveals揭示
+Habitats栖息地
+Greenhouse温室
+Interstellar星际
+providing提供
+thruster推进器
+propulsion动力
+miscellaneous杂项
+Alignment对准
+Indicator指示器
+Futuristic未来派R
+Landing Gear起落架
+Grid Fins网格鳍
+
+
+
