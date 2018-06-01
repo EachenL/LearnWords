@@ -1,0 +1,21 @@
+though one should never totally ignore them.
+尽管人们不应该完全忽视它们。
+----------------------------
+Remember that WAIT statements are ignored when inside WHEN/THEN blocks. 
+请记住，当在WHEN / THEN块内时WAIT语句被忽略。
+----------------------------
+It is OK to loop over small lists (engines for example), but don’t let it get out of hand.
+循环小列表是可以的(例如引擎),但是不要让它失去控制
+-----------------------------
+The WHEN/THEN construct was designed to accommodate quick bits of code. 
+WHEN / THEN构造旨在适应快速代码。
+-----------------------------
+Consider this bit of (non-working) code which tries to adjust the throttle based on the g-force as measured by a combination of the accelerometer and the negative gravioli detector
+
+
+
+
+
+
+
+

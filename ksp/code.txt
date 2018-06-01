@@ -1,0 +1,37 @@
+//sequential programs
+//-------------------------------start
+lock steering to heading(0,90).
+lock throttle to 1.
+stage.
+wait until ship:altitude > 10000.
+lock steering to heading(0,90) + r(0,-45,0).
+wait until stage:liquidfuel < 0.1.
+stage.
+wait until ship:altitude > 20000.
+lock throttle to 0.
+wait until false.
+//------------------------------end
+//Loops With Condition Checking
+//---------------------------------start
+lock steering to r(0,0,-90) + heading(90,90).
+lock throttle to 1.
+stage.
+until ship:altitude > 20000 {
+	if ship:altitude > 10000 {
+		lock steering to r(0,0,-90) + heading(90,45).
+	}
+	if stage:liquidfuel < 0.1 {
+		stage.
+	}
+}
+lock throttle to 0.
+wait until false.
+//----------------------------end
+//Loops With Triggers
+//-------------------------------start
+lock steering to r(0,0,-90) + heading(90,90).
+lock throttle to 1.
+stage.
+when ship:altitude > 10000 then {
+	lock steering to r(0,0,-90) + heading(90,45).
+}
