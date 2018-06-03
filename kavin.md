@@ -38,3 +38,71 @@
 
 5. stand
 
+
+### 四. 英->中 语序障碍的来源和解决
+
+#### 句子分类
+
+1. 简单句: 只有一套主谓结构的句子
+2. 非简单句: 有一套以上主谓结构的句子
+
+- 简单句中语序障碍的来源和解决
+
+  1. 定语
+  2. 同位语
+  3. 状语
+  4. 插入语
+
+  *识别和处理*:
+
+  **定语**: 修饰限定名词
+
+   	前置定语 n. 后置定语
+
+  ​	冠词可以帮助识别名词 a an the
+
+  1. 前置定语: 
+
+     识别: adj, ving, ved, 代词, n. (名词前可以出现多个前置定语)
+
+     ​	`(the) similar process` `digital divide` `the aging population` 
+
+     `troubled face` `troubled times` `flourishing times` `prosperous times` `troubled industry` `declining industry` 
+
+     `her insightful provocative magazine cover story`
+
+     `his respected numerical price leading pattern`
+
+     adj : ful, tive, al
+
+     n : tion
+
+     verb : ate
+
+     处理: [前置定语+名词] = 名词短语 = 名词
+
+  2. 后置定语:
+
+     识别: 
+
+     1. adj短语: adj + prep + n
+     2. ving短语
+     3. ved短语
+     4. 不定式短语
+     5. 介词短语
+
+     > the component [necessary to (the sustained boom)]	
+     >
+     > n. + adj + prep + n
+     >
+     > the factor [critical to (your success)]
+
+     > a man [walking on (the road.)] n + ving + prep + n
+     >
+     > a mother [holding (a cute baby.)] n + ving + n
+     >
+     > the headlines [warning of (gloom and doom)]
+
+     `justified` 有理由的
+
+     > the idea [holding that (the animal has the right)] n + ving + 连词 + 句子
