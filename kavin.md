@@ -85,24 +85,56 @@
 
      识别: 
 
-     1. adj短语: adj + prep + n
-     2. ving短语
-     3. ved短语
-     4. 不定式短语
-     5. 介词短语
+     1. adj短语: `adj + prep + n`
+     2. ving短语:`ving + prep + n` `ving + n ` `ving + conj + sentence`
+     3. ved短语:`ved + prep + n` `ved + n`
 
-     > the component [necessary to (the sustained boom)]	
+     4. 不定式短语:`to do + n` `to do`
+     5. 介词短语:`prep + n`
+
+     > he component [necessary to (the sustained boom)]
      >
      > n. + adj + prep + n
      >
      > the factor [critical to (your success)]
 
-     > a man [walking on (the road.)] n + ving + prep + n
+     > a man [walking on (the road.)] //n + ving + prep + n
      >
-     > a mother [holding (a cute baby.)] n + ving + n
+     > a mother [holding (a cute baby.)] //n + ving + n
      >
      > the headlines [warning of (gloom and doom)]
 
-     `justified` 有理由的
+     `justified 有理由的` `sustained 持续的` `boom 繁荣` `component factor 因素`
 
-     > the idea [holding that (the animal has the right)] n + ving + 连词 + 句子
+     > the idea [holding that (the animal has the right)] //n + ving + 连词 + 句子
+
+     > a picture  [painted by picasso] //n + ved + prep + n
+
+     > the meeting [held last week] //n + ved + n
+
+     > physicians [unconcerned with (patients' needless pain)]
+
+     `physisians 医生`
+
+     > the reason [to lose sleep]
+     >
+     > the way [to go]可行之道
+     >
+     > the right [to die]
+     >
+     > the right [to live/survive]
+
+     `Survive and thrive 活下去枝繁叶茂`
+
+     > the determination [to make the dream a reality]
+
+     > a book [on the desk]
+
+     处理: 
+
+     1. 将其置于名词前
+     2. 对于过长的后置定语可以独立成句
+
+     ​		
+
+     ​
